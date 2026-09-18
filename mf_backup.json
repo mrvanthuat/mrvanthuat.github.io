@@ -1,3 +1,4 @@
+//////////////////////////////////////84
 core{
 	para_core1: 'sSpsXxXWtOO++ENvm0xPGc7BJSRyf35uGb4loTMrLMY=',
 	para_core2: '14upPvonmhx/wjGQgjuZNw==',
@@ -9,4 +10,30 @@ router{
 	para_core2: '14upPvonmhx/wjGQgjuZNw==',
 	para_core3: 'HW/+cmG8GcHO0NHSQSYYfg==',
 	para_core4: 'R7FYh0rRh2/xAj8cBG3r89XWPEGgmyMPPeK580NCTU0='
+}
+//////////////////////////////////////83
+core{
+	para_core1: 'Cq5XVnliyZVA4H0YCEbns3IX0niQVr3ygem1s8a2jG4=',
+	para_core2: '14upPvonmhx/wjGQgjuZNw==',
+	para_core3: 'J+QOslt6hbl1YJ1VX8AwAA==',
+	para_core4: 'UnxyUAU0eb11/tCKmCJyQYjeTRDabB+yK1gOF/QNE04='
+}
+router{
+	para_core1: 'Cq5XVnliyZVA4H0YCEbns3IX0niQVr3ygem1s8a2jG4=',
+	para_core2: '14upPvonmhx/wjGQgjuZNw==',
+	para_core3: 'HW/+cmG8GcHO0NHSQSYYfg==',
+	para_core4: 'SStlDA3CCy4Oc+wtY41Ne4agcV/cgWGUKz2yAAivoRw='
+}
+//////////////////////////////////////73
+core{
+	para_core1: 'VpzAafqGjwUXRozoCafVxcRKZDWyL2NSYbGvtRcYlUc=',
+	para_core2: '14upPvonmhx/wjGQgjuZNw==',
+	para_core3: 'J+QOslt6hbl1YJ1VX8AwAA==',
+	para_core4: 'iY8EeNp8OmD+VfjWvdMDCqf1LPe6QJFMN/ITiALTDII='
+}
+router{
+	para_core1: 'VpzAafqGjwUXRozoCafVxcRKZDWyL2NSYbGvtRcYlUc=',
+	para_core2: '14upPvonmhx/wjGQgjuZNw==',
+	para_core3: 'HW/+cmG8GcHO0NHSQSYYfg==',
+	para_core4: 'va40E0ktyv0LVlg6KTm/6IVYtlNs4Ht+ySgQHNcpcew='
 }
